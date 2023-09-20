@@ -10,7 +10,7 @@ export const homepageText = `
   <p>Welcome to the Official Page of the Dangerous League. Started in 2018, this dynasty fantasy football league is mostly comprised of lifelong college friends from the Northeast Ohio area. Each year the managers compete for cash prizes, bragging rights, and the opportunity to hold the league trophy--a replica of Longclaw, Jon Snow's sword from Game of Thrones. Unfortunately for the loser, the league punishment for the last place team is to sing and record an entire album of cover songs, each chosen by the other members of the league.</p>
   <p>While the league has win-now teams, rebuilders, and perennial dynasty rosters, the parity amongst teams is apparent each season. As we've seen everything from breakout rookies to rampant injuries, inexplicable busts, and legendary performances, it remains true that any given team in this league can win in any given week.</p>
   
-  <img src="https://imgur.com/a/ttwMkuL.jpeg" alt="2023 Dangerous League" width="512" height="512">
+  <img src="https://imgur.com/a/ttwMkuL.jpg" alt="2023 Dangerous League" width="512" height="512">
 `;
 
 /*   STEP 3   */
